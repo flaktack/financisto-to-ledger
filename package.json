@@ -2,7 +2,7 @@
   "name": "financisto-to-ledger",
   "version": "0.2.0",
   "description": "Converts Android Financisto backups to Ledgers text files",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "dependencies": {
     "argparse": "^1.0.9",
     "bluebird": "^3.4.6",
@@ -15,7 +15,6 @@
   "bin": {
     "financisto-to-ledger": "./financisto-to-ledger.js"
   },
-  "main": "./lib/index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
