@@ -1,7 +1,7 @@
 {
   "name": "financisto-to-ledger",
-  "version": "0.2.0",
-  "description": "Converts Android Financisto backups to Ledgers text files",
+  "version": "0.3.0",
+  "description": "Converts Android Financisto backups to Ledger text files",
   "main": "./lib/index.js",
   "dependencies": {
     "argparse": "^1.0.9",
